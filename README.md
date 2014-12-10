@@ -1,4 +1,4 @@
 Super-Working-Title
 ===================
 
-1v1 SmashBro game made with Phaser library and JavaScript
+1v1 SmashBro-like game made with Phaser library and JavaScript
